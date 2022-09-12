@@ -1,4 +1,4 @@
-# ShoppingList App
+# Grocery List App
 
 ## Introduction
 
