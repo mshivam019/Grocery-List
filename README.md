@@ -20,6 +20,5 @@ Pattern Model-View-ViewModel(MVVM) which facilitates a separation of development
 <img src="https://github.com/mshivam019/Grocery-List/blob/master/ScreenRecord.gif" width="300">
 
 ## Screenshots
-![Screenshot](https://raw.githubusercontent.com/mshivam019/Grocery-List/master/grocery.jpg?raw=true "Sceenshot")
+<img src="https://raw.githubusercontent.com/mshivam019/Grocery-List/master/grocery.jpg" width="200"> <img src="https://raw.githubusercontent.com/mshivam019/Grocery-List/master/grocery1.jpg" width="200">
 
-![Screenshot](https://raw.githubusercontent.com/mshivam019/Grocery-List/master/grocery1.jpg?raw=true "Sceenshot")
