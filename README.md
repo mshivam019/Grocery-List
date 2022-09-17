@@ -15,7 +15,7 @@ Pattern Model-View-ViewModel(MVVM) which facilitates a separation of development
 * Room persistence
 * Lottie 
 
-#Screen-Recording
+## Screen-Recording
 
 <img src="https://github.com/mshivam019/Grocery-List/blob/master/ScreenRecord.gif" width="300">
 
