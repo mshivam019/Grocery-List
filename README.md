@@ -17,8 +17,7 @@ Pattern Model-View-ViewModel(MVVM) which facilitates a separation of development
 
 #Screen-Recording
 
-
-![screenrecording](https://github.com/mshivam019/Grocery-List/blob/master/ScreenRecord.gif=100x20)
+<img src="https://github.com/mshivam019/Grocery-List/blob/master/ScreenRecord.gif" width="200">
 
 ## Screenshots
 ![Screenshot](https://raw.githubusercontent.com/mshivam019/Grocery-List/master/grocery.jpg?raw=true "Sceenshot")
