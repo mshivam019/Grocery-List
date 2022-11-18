@@ -4,7 +4,7 @@
 
 An Android application that helps you keep track of the products you need while shopping
 
-##Certificate
+## Certificate
 <img src="https://github.com/mshivam019/Grocery-List/blob/master/certificate.png">
 ## Architecture
 
